@@ -6,10 +6,11 @@ h1 {
   font-size: 50px;
 }
 section {
+  margin: 20px auto;
   box-shadow: 0 4px 8px 0;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: black;
-  width: 80%;
+  width: 90%;
   padding: 1% 2%;
 }
 .footer {
@@ -26,4 +27,5 @@ section {
   text-align: left;
   font-size: 40px;
 }
+
   
