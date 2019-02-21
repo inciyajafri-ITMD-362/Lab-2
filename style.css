@@ -37,9 +37,3 @@ section {
   text-align: left;
   font-size: 40px;
 }
-@media screen and (max-width: 900px) {
-  body {
-    font-size: 0.85em;
-    line-height: 2em;
-  }
-}
