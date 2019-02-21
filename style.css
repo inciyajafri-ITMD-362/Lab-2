@@ -1,13 +1,13 @@
 h1 {
   font-family: 'Amatic+SC';
-  color: white;
+  color: black;
   font-weight:bold;
   text-align: center;
   font-size: 50px;
 }
 section {
   margin: 20px auto;
-  align-items: center;
+  align-items: left;
   box-shadow: 0 4px 8px 0;
   border-radius: 5px;
   background-color: black;
